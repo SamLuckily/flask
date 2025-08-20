@@ -1,0 +1,101 @@
+REDIS_HOST=47.130.75.121
+REDIS_AUTH=redis_SNdPxY
+REDIS_PORT=8793
+REDIS_DB=0
+
+Android 1.0.12 提测，功能如下
+	1、充电首页增加充电挖矿宝石进度的展示，防止用户懵逼怀疑平台偷宝石的交互
+	2、新增充电升级，可支持多资产消耗配置展示
+
+账户：
+livewanna50-1000@gmail.com  12345678
+
+
+Android 1.0.12 提测，功能如下
+	1、充电首页增加充电挖矿宝石进度的展示，防止用户懵逼怀疑平台偷宝石的交互
+	2、新增充电升级，可支持多资产消耗配置展示
+
+
+
+charger：充电器  /ˈtʃɑːdʒə(r)/
+asset：资产  /ˈæset/
+score：得分  /skɔː(r)/
+flows：流水
+level：级别
+symbol：代号  /ˈsɪmbl/
+stat：统计  /stæt/
+amount：数量
+total：总计   /ˈtəʊtl/
+deposits：充值   /dɪˈpɒzɪts/
+asset_limit_order_historical_trades：资产_限额_订单_历史_交易
+asset_platform_balance_flows：资产_平台_平衡_流水/ˈplætfɔːm/
+asset_trades：资产交易   /treɪdz/
+withdrawals：提现/wɪðˈdrɔːəlz/
+unlock：发现
+daily_reward_seconds：/ˈdeɪli/日常的
+component_unlock_asset_config_items：组件_解锁_资产配置_项目/kəmˈpəʊnənt/
+virtual：虚拟/ˈvɜːtʃuəl/
+operation：操作/ˌɒpəˈreɪʃn/
+permissions：/pəˈmɪʃənz/  许可
+agent_apply：/əˈplaɪ/  代理人应用
+commission：/kəˈmɪʃn/ 委托
+exception：/ɪkˈsepʃn/ 例外异常
+terms：/tɜːmz/条件
+trades：/treɪdz/ 交易
+pairs：/peəz/ 对
+pool：/puːl/池
+device：/dɪˈvaɪs/ 设备
+machine：/məˈʃiːn/ 机器
+scrap：/skræp/ 碎片
+translation：/trænzˈleɪʃn/翻译
+zone：/zəʊn/区
+cipher：/ˈsaɪfə(r)/密码
+component：/kəmˈpəʊnənt/  组件
+rights：/raɪts/权限
+coupons：优惠券/ˈkuːpɒnz/
+releases：/rɪˈliːsɪz/释放
+key_translation：关键字翻译
+migrations：/maɪˈgreɪʃənz/迁移
+notice：通知
+product：/ˈprɒdʌkt/产品
+payment：付款
+pledge：/pledʒ/ 保证
+category：/ˈkætəɡəri/ 类别
+sale：/seɪl/销售
+sku：/,ɛskju'ju/ 库存单位
+spec：/spek/规格
+sign：签名
+statistics：/stəˈtɪstɪks/ 统计数字
+blacklist：黑名单
+completion：/kəmˈpliːʃn/完成
+entries：/ˈɛntriz/进入
+monitoring：/ˈmɒnɪtərɪŋ/ 监视
+inventory：库存/ˈɪnvəntri/
+inviter：邀请人
+pledge：保证/pledʒ/
+profile：/ˈprəʊfaɪl/轮廓
+percentages：百分比/pəˈsɛntɪdʒɪz/
+conditions：/kənˈdɪʃnz/条件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+body {
+    margin: auto;
+    max-width: 800px;
+    font-size: 14px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* 宝箱夺金 */
+.img1000005517 {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+}
+
+/* 小图片 */
+.img1000005524 {
+    width: 100px;
+}

@@ -1,0 +1,13 @@
+<!--继承父模板-->
+{% extends "layout.html" %}
+
+<!--重写父模板-->
+{% block title %}
+son page
+{% endblock %}
+<!--导入其他模板-->
+{% include "top.html" %}
+{% block content %}
+<h1>子模版</h1>
+<button>按钮</button>
+{% endblock %}

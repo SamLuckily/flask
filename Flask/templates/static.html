@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>静态文件</title>
+		<link rel="icon" href="{{ url_for('static', filename='2035875927.png')}}">
+		<link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+	</head>
+	<body>
+		<h1>静态文件</h1>
+		<h1>
+			<img alt="img1000005517" class="img1000005517"
+				 src="{{ url_for('static', filename='images/1000005517.png')}}">
+			宝箱夺金
+		</h1>
+		<div>
+			<img alt="img1000005523" src="{{ url_for('static', filename='images/1000005523.png')}}">
+			<img alt="img1000005524" class="img1000005524"
+				 src="{{ url_for('static', filename='images/1000005524.png')}}">
+		</div>
+	</body>
+</html>

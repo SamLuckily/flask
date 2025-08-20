@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Game Info</title>
+	</head>
+	<body>
+<!--		{{ game }}-->
+<!--		循环传过来的列表-->
+		{% for game in game %}
+			您好
+			{% if game.bet == "GEM" %}
+				{{ game.name}} 下注,<br/>
+			{% else %}
+				{{ game.name }} 非下注,<br/>
+			{% endif %}
+			您的下注为{{ game.bet}},<br/>
+			您玩的游戏为{{ game.name}}<br/>
+		{% endfor %}
+	</body>
+</html>
